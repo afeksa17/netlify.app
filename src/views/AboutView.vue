@@ -208,7 +208,7 @@ export default {
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; Hi everyone! My name is Afif Eka Saputra. I'm a Multimedia Profesional. I
             have 6 year of experience in Multimedia.
-            I really enjoy what I do right now, in my opinion, cMultimedia work is not only a job, but also an art
+            I really enjoy what I do right now, in my opinion, Multimedia work is not only a job, but also an art
             art is an explosion
           </p>
           <p class="mb-3 fadein-left fadeins-2">
