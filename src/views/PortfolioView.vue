@@ -15,7 +15,7 @@ export default {
         },
         {
           id: 13,
-          name: 'Motion Graphic',
+          name: 'Media Portfolio',
           imageUrl: 'motiongraphic',
           status: 'Create visual effects and motion graphics for a video highlight for an esports film',
           tech: 'Adobe After Effect, Adobe Premiere, ',
@@ -38,7 +38,7 @@ export default {
           status: 'Company operating in the food ingredients sector, I am a web developer and content creator for this company.',
           tech: 'JavaScript, Photoshop',
           github: 'null',
-          demo: 'https://www.linkedin.com/company/pt-sumber-rasa-nusantara-industri/about/'
+          demo: 'https://drive.google.com/drive/u/0/folders/1q__S4Qnp7W1DRLQUPgDQLZlmwcOgf4xJ'
         },
         {
           id: 4,
